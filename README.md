@@ -8,7 +8,7 @@
 A high-concurrency, distributed auction platform built with **Java EE**. This system is engineered to handle real-time simultaneous bidding from multiple users without data conflicts, utilizing **Enterprise JavaBeans (EJB)**, **JMS**, and **WebSockets**.
 
 ## 🎥 Demo
-**[▶️ Click here to watch the system in action](/demo/demo.mp4)**
+**[▶️ Click here to watch the system in action](https://www.linkedin.com/posts/dilan-hansaja_javaee-ejb-jms-activity-7341510821656612865-Cxp2?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAADkjDw4BlVmrCmNEv0_m6RsDd3513MCko2E)**
 *(Simulating high-concurrency bidding with JMeter and real-time updates)*
 
 ---
