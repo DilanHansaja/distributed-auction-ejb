@@ -1,4 +1,4 @@
-# Real-Time Distributed Online Auction System 🚀
+# Real-Time Distributed Online Auction System
 
 ![Java EE](https://img.shields.io/badge/Java%20EE-Jakarta%20EE-red)
 ![EJB](https://img.shields.io/badge/Architecture-EJB%20%26%20JMS-blue)
@@ -31,7 +31,7 @@ The primary goal of this engineering project was to demonstrate deep knowledge o
 
 ---
 
-## ✨ Key Features
+## Key Features
 
 - **Real-Time Push Notifications**: Uses JMS (Java Message Service) and Message-Driven Beans (MDB) to decouple bid processing from user notifications. Updates are pushed to clients via WebSockets instantly.
 
@@ -43,7 +43,7 @@ The primary goal of this engineering project was to demonstrate deep knowledge o
 
 ---
 
-## ⚙️ Configuration & Performance Tuning
+## Configuration & Performance Tuning
 
 To achieve high concurrency (tested with JMeter load tests), the GlassFish Server thread pools must be tuned beyond default settings to handle thousands of concurrent requests.
 
@@ -67,7 +67,7 @@ To achieve high concurrency (tested with JMeter load tests), the GlassFish Serve
 
 ---
 
-## 🚀 Getting Started
+## Getting Started
 
 ### Prerequisites
 - JDK 8 or higher
@@ -82,7 +82,7 @@ To achieve high concurrency (tested with JMeter load tests), the GlassFish Serve
 
 ---
 
-## 🔐 Accessing the Admin Panel
+## Accessing the Admin Panel
 
 To test the administrative features (creating auctions, managing users), use the following credentials:
 
