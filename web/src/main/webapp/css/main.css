@@ -1,0 +1,47 @@
+body {
+    font-family: Arial, sans-serif;
+    background: #f2f2f2;
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    text-align: center;
+    margin-top: 100px;
+}
+
+.title {
+    font-size: 32px;
+    color: #333;
+    margin-bottom: 10px;
+}
+
+.subtitle {
+    font-size: 18px;
+    color: #666;
+    margin-bottom: 30px;
+}
+
+.btn {
+    padding: 12px 24px;
+    margin: 10px;
+    font-size: 16px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    text-decoration: none;
+}
+
+.btn-auctions {
+    background-color: #007bff;
+    color: white;
+}
+
+.btn-admin {
+    background-color: #28a745;
+    color: white;
+}
+
+.btn:hover {
+    opacity: 0.9;
+}

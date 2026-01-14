@@ -1,0 +1,32 @@
+table {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+th, td {
+    padding: 10px;
+    border: 1px solid #ddd;
+    text-align: left;
+}
+
+th {
+    background-color: #f3f3f3;
+}
+
+.heading {
+    margin: 20px 0;
+    font-size: 24px;
+    font-weight: bold;
+}
+.addNewBtn{
+    font-family: Calibri, serif;
+    padding: 8px 10px;
+    font-size: 16px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    text-decoration: none;
+    color: #ffffff;
+    margin: 10px 10px 10px 50px;
+    background-color: #007bff;
+}

@@ -1,0 +1,96 @@
+@font-face {
+    font-family: "Aptos";
+    src: url("../fonts/Aptos.ttf") format("truetype");
+}
+.adminIcon {
+    padding: 5px;
+    background-size: contain;
+    height: 30px;
+}
+
+.adminIcon:hover {
+    border-radius: 5px;
+    background-color: #dad9d9;
+}
+
+.aptos {
+    font-family: "Aptos";
+}
+.infoTopics {
+    font-family: "Aptos";
+    font-size: 14px;
+    color: #adadad;
+}
+.info-card {
+    margin: 50px auto;
+    padding: 25px;
+}
+.info-row {
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    padding: 10px 0;
+    border-bottom: 1px solid #e8e8e8;
+}
+.info-row:last-child {
+    border-bottom: none;
+}
+.label {
+    font-weight: 500;
+    color: #6c757d;
+    font-family: "Aptos";
+}
+.value {
+    font-weight: 600;
+    color: #212529;
+    font-family: "Aptos";
+}
+.bidNowBtn {
+    background-color: #3bd36e;
+    color: #ffffff;
+    border-radius: 5px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-right: 7px;
+    padding-left: 7px;
+    border: none;
+    width: 100%;
+    font-family: "Aptos";
+}
+.bidNowBtn2 {
+    background-color: #ed4d5d;
+    color: #ffffff;
+    border-radius: 5px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-right: 7px;
+    padding-left: 7px;
+    border: none;
+    width: 100%;
+    font-family: "Aptos";
+}
+
+.bidInfoBox {
+    background: rgba(136, 236, 118, 0.1);
+    backdrop-filter: blur(10px);
+    -webkit-backdrop-filter: blur(10px);
+    border: none;
+    box-shadow: none;
+    border-radius: 10px;
+}
+.recentBidsBox {
+    background: rgba(192, 192, 192, 0.1);
+    backdrop-filter: blur(10px);
+    -webkit-backdrop-filter: blur(10px);
+    border: none;
+    box-shadow: none;
+    border-radius: 10px;
+}
+.winBox {
+    background: rgba(47, 127, 255, 0.1);
+    backdrop-filter: blur(10px);
+    -webkit-backdrop-filter: blur(10px);
+    border: none;
+    box-shadow: none;
+    border-radius: 10px;
+}
